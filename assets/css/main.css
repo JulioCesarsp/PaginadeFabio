@@ -2261,6 +2261,12 @@ input, select, textarea {
 
 			#main > section.four {
 				background-color: #e8edec;
+				background-image: url("../../images/contato.jpg");
+				height: 80vh;
+				background-size: cover;
+				background-position: center center;
+				
+				
 			}
 
 /* Wide */
