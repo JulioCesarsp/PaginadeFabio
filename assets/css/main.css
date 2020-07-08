@@ -32,6 +32,13 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+.conteudo{
+	color:black;
+	text-align: justify;
+}
+.titulo{
+	font-weight: bold;
+}
 
 ol, ul {
 	list-style: none;
@@ -1743,7 +1750,7 @@ input, select, textarea {
 		}
 
 /* Image */
-
+	
 	.image {
 		display: inline-block;
 		border: 0;
