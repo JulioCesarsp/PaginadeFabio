@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<!--
+<!--teste
 	-->
 <html lang="pt-br">
 
@@ -68,7 +68,7 @@
                     <h2>Portfolio</h2>
                 </header>
 
-                <p class="alt">Olá, Tudo bem? Me chamo Fábio Sales, sou professor de ciências e biologia.</p>
+                <p class="alt">Olá, sou o professor Fábio Sales. Este portfólio foi criado com o intuito de informá-los sobre aspectos científicos fundamentais, com ênfase na bibliografia de cientistas e suas contribuições para a ciência; a relevância do método científico e o texto de divulgação científica; relação natureza e o homem com foco nos seus impactos; a importância do letramento como facilitador no ensino de ciências e divulgação de material científico de minha autoria. Sejam todos bem vindos!</p>
 
                 <div class="row">
                     <!-- Portfolio Esquerdo -->
